@@ -1,0 +1,10 @@
+# What the pipeline makes: each test's results, and step 1's files in [01] Data
+**/Output/
+**/*.jsonl
+**/* record.json
+**/syllabi.csv
+**/no text.csv
+# Python, Jupyter and macOS leftovers
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

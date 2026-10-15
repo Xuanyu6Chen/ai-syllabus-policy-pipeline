@@ -1,0 +1,9 @@
+# The pipeline's own packages (Kev installs its own when the runner starts it on a GPU)
+numpy==2.4.0
+pandas==3.0.1
+pdfplumber==0.11.10
+python-docx==1.2.0
+requests==2.32.5
+tqdm==4.68.1
+# only for runners/checks.py (it makes small PDFs to test step 1)
+PyMuPDF==1.27.1

@@ -1,0 +1,4 @@
+# Python and Jupyter leftovers, macOS folder files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
